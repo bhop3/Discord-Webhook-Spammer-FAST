@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">🕵️‍♂️ Can use to Spam everyone pings on a Discord Server with multiple Webhooks🕵️‍♂️</h>
 
-![BetterHandmadeGull-size_restricted]([https://cdn.discordapp.com/attachments/1189254955547230328/1209271660708896878/Bugs_Bunny-removebg-preview.png?ex=65e650ff&is=65d3dbff&hm=fe48d95eb32239141c97784ed55a8dfe58f7f605a9ab7566926a5e5969202c29&](https://media.discordapp.net/attachments/1189254955547230328/1221448063256887407/IMG_2691.jpg?ex=66129d27&is=66002827&hm=097bbab1b3af225a53dbcfe6c66d0825ffb2df4a98c1910d994d2373da3239a6&=&format=webp&width=571&height=571&))
+![BetterHandmadeGull-size_restricted](https://media.discordapp.net/attachments/1189254955547230328/1221448063256887407/IMG_2691.jpg?ex=66129d27&is=66002827&hm=097bbab1b3af225a53dbcfe6c66d0825ffb2df4a98c1910d994d2373da3239a6&=&format=webp&width=571&height=571))
 
 # 👨🏻‍💻 About the Code
 
